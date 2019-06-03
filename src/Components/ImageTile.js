@@ -3,8 +3,9 @@ import React from "react";
 const ImageTile = props => {
   return (
     <figure className="tile">
-      <img src={props.source} alt={props.altText} />
-      <figcaption>{props.caption}</figcaption>
+      {/* uncomment the lines below, and fill in the <CAPS> with your props */}
+      {/* <img src=<DOWNLOAD_URL> alt=<URL> />
+      <figcaption><AUTHOR></figcaption> */}
     </figure>
   );
 };

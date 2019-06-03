@@ -51,3 +51,6 @@ figcaption {
   font-size: 0.7rem;
   padding: 10px 0;
 }
+ol {
+  text-align: left;
+}
